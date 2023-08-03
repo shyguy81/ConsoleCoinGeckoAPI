@@ -1,6 +1,6 @@
 # Visual Studio Code
 .vscode/
 #
-bin/
-obj/
+**/bin/
+**/obj/
 .DS_Store
