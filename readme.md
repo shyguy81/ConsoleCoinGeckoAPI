@@ -2,7 +2,7 @@ This simple C# Console use the CoinGecko API to get simple datas.
 
 Editor used : vscode 
 
-# Newtonsoft
+## Newtonsoft
 dotnet add package Newtonsoft.Json --version 13.0.3
 
 # restsharp
